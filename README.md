@@ -1,6 +1,8 @@
 # Amigo Secreto
 
-![Amigo Secreto](assets/amigo-secreto.png)
+<p align="center">
+  <img src="assets/amigo-secreto.png" alt="Amigo Secreto" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=STATUS&message=Finalizado&color=GREEN&style=for-the-badge" alt="Status do Projeto" />
@@ -13,7 +15,6 @@
 - [Como Executar](#como-executar)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Autor](#autor)
-- [Licença](#licença)
 
 ## Descrição
 
@@ -48,8 +49,7 @@ Neste projeto, desenvolvo uma aplicação para sortear o "amigo secreto". O usu�
 
 ## Autor
 
-- José Luan.<br>
-  Desenvolvedor iniciante apaixonado por desafios que aprimorem minhas habilidades em programação e desenvolvimento web.
+- **José Luan:** Desenvolvedor iniciante apaixonado por desafios que aprimorem minhas habilidades em programação e desenvolvimento web.
 
 
 
